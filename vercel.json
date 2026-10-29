@@ -6,7 +6,7 @@
 		{ "source": "/api/:path*", "destination": "/api" },
 		{ "source": "/cache/:path*", "destination": "/api" },
 		{ "source": "/key", "destination": "/api" },
-		{ "source": "/3/:path*", "destination": "/api" }
+		{ "source": "/3/:path*", "destination": "/api" },
 		{ "source": "/t/p/:path*", "destination": "/api" }
 	],
 	"headers": [
